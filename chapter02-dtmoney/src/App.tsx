@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import Modal from 'react-modal';
-import { GlobalStyle } from '../src/styles/global'
+import { GlobalStyle } from './styles/global'
 import { Dashbord } from './components/Dashboard'
 import { Header } from './components/Header'
 import { NewTransactionModal } from './components/NewTransactionModal';
